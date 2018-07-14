@@ -7,7 +7,7 @@ Get an object from a string which is separated by some endpoints
 
 ```bash 
 
-const stringToObject = require('string-to-object');
+const stringToObject = require('str-to-obj');
 
 const queryString = 'type:car,color:blue,year:2005';
 const myObject = stringToObject(queryString, ',', ':');
