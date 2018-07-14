@@ -1,6 +1,6 @@
 {
   "name": "str-to-obj",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get an object from a string which is separated by some endpoints",
   "main": "index.js",
   "scripts": {
@@ -14,8 +14,8 @@
   ],
   "author": "Santiago Yepes <zetogk@gmail.com>",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/zetogk/str-to-obj.git"
+    "type": "git",
+    "url": "https://github.com/zetogk/str-to-obj.git"
   },
   "license": "ISC"
 }
