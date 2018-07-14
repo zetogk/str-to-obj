@@ -1,5 +1,5 @@
 {
-  "name": "string-to-object",
+  "name": "str-to-obj",
   "version": "1.0.0",
   "description": "Get an object from a string which is separated by some endpoints",
   "main": "index.js",
@@ -8,6 +8,7 @@
   },
   "keywords": [
     "string to object",
+    "str to obj",
     "string",
     "object"
   ],
