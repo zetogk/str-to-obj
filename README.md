@@ -1,4 +1,4 @@
-# string-to-object
+# str-to-obj
 Get an object from a string which is separated by some endpoints
 
 ## Example

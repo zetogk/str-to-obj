@@ -13,5 +13,9 @@
     "object"
   ],
   "author": "Santiago Yepes <zetogk@gmail.com>",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/zetogk/str-to-obj.git"
+  },
   "license": "ISC"
 }
