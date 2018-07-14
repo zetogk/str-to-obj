@@ -1,6 +1,6 @@
 'use strict';
 
-exports.stringToObject = (str, propertySeparator, valueSeparator) => {
+const stringToObject = (str, propertySeparator, valueSeparator) => {
 
     const objectToReturn = {};
 
@@ -14,3 +14,5 @@ exports.stringToObject = (str, propertySeparator, valueSeparator) => {
     return objectToReturn;
 
 };
+
+module.exports = stringToObject;
